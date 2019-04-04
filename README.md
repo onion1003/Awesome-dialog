@@ -12,4 +12,4 @@ A list of papers and implements about dialog.
 
 ## Task Bots
 ### General 
-* [example](url), Bing Liu, *arXiv*, 2016
+* [Global-to-local Memory Pointer Networks for Task-Oriented Dialogue ](https://openreview.net/pdf?id=ryxnHhRqFm), Chien-Sheng Wu, *ICLR*, 2019
